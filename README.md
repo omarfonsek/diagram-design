@@ -2,7 +2,7 @@
 
 **Editorial diagrams your designer won't hate.**
 
-<a href="https://trendshift.io/repositories/26141?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-26141" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/26141" alt="cathrynlavery%2Fdiagram-design | Trendshift" width="250" height="55"/></a>
+> **Note:** This is a personal-use clone of the original repository — [github.com/cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design). All credit goes to the original author. Refer to the upstream project for the canonical version, issues, and updates.
 
 ![Content site architecture](docs/screenshots/architecture.png)
 
